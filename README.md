@@ -105,7 +105,9 @@ Some lessons include mini embedded quizzes (for example `lq-pn1`, `lq-fp1`, `lq-
 
 - Structure defined  
 - No full lesson content implemented yet  
-- No practice system connected yet  
+- No practice system connected yet
+
+Things that are NOT listed on here have full lessons AND practice problems :)
 
 ---
 
