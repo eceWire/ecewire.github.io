@@ -8,7 +8,7 @@ Live Site: https://ecewire.github.io/
 
 eceWire is a full interactive learning system that combines structured lessons, quizzes, and practice systems into a unified study platform.
 
-It is not a simple website — it is a custom-built learning engine inspired by Khan Academy and Duolingo-style navigation.
+It is not a simple website , it is a custom-built learning engine inspired by Khan Academy and Duolingo-style navigation.
 
 ---
 
@@ -186,3 +186,6 @@ The platform is split into two systems:
 ## Summary
 
 eceWire is a hybrid Khan Academy + Duolingo-style interactive learning platform with modular lessons, embedded quizzes, and a growing practice engine system.
+
+
+Basically. all lessons are there, only thing needed to be added would be some more practice problems :)
